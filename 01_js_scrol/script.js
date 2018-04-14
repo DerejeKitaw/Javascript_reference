@@ -24,9 +24,7 @@ function updateText() {
     }
   }
 }
-
  setInterval(updateText,1000);
-
 // updateText();
 // updateText();
 // updateText();
@@ -43,5 +41,4 @@ function updateText() {
 // updateText();
 // updateText();
 // updateText();
-
 // html = words[wordcounter];
